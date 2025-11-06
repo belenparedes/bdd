@@ -6,3 +6,4 @@
 	saldo money not null,
 	constraint cuentas_pk primary key (numero_cuenta)
  )
+ insert into cuentas
